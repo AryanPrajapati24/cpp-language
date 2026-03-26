@@ -22,7 +22,8 @@ public:
         cout << "Enter a studantname=";
         cin >> studantname;
 
-        cout << "Enter a persantage=";
+        cout << "Enter a persantage="
+        ;
         cin >> persantage;
     }
 
